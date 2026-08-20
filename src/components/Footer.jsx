@@ -14,7 +14,7 @@ function Footer() {
         <div className="grid gap-10 md:grid-cols-3">
           <div>
             <a href="#home" className="text-2xl font-bold">
-              SaaS<span className="text-green-400">Nature</span>
+              Leaf<span className="text-green-400">Metric</span>
             </a>
 
             <p className="mt-4 max-w-full text-sm leading-7 text-green-100/70">
